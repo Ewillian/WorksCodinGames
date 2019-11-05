@@ -1,5 +1,7 @@
 # MAY THE TRIFORCE BE WITH YOU!
 
+![](https://d.facdn.net/art/thelonelywolf/1488278723/1342350392.thelonelywolf_ascii-link_artwork_2__the_minish_cap_.gif)
+
 [Original link](https://www.codingame.com/training/easy/may-the-triforce-be-with-you)
 
 ## Objective

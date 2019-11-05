@@ -1,16 +1,18 @@
+# The Descent
 
+![](https://static.codingame.com/servlet/fileservlet?id=4769420985292&format=puzzle_cover)
 
+> Codingame is the owner of the image
 
+[**Original Link**]( https://www.codingame.com/training/easy/the-descent )
 
+## Objective
 
+> Difficulty: **Easy**
 
+A simple problem to experience the CodinGame platform: your program must find the highest mountain among a list of mountains. 
 
-
-
-
-
-
-
+The Enterprise vessel is in danger: lured down, it is likely to crash into the mountains of an unknown planet. Help Kirk and Spock destroy the mountains ... save the Enterprise! 
 
 
 
@@ -81,4 +83,8 @@ class Player {
     }
 }
 ``````
+
+
+
+## Explanation
 

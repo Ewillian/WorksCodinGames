@@ -1,5 +1,9 @@
 # Chuck Norris
 
+![](https://static.codingame.com/servlet/fileservlet?id=5690588778503&format=puzzle_cover)
+
+> Codingame is the owner of the image
+
 [Original link]( https://www.codingame.com/training/easy/chuck-norris )
 
 ## Objective

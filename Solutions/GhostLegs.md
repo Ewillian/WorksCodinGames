@@ -58,7 +58,6 @@ class Solution
         //All the Lists
         List<string> top = new List<string>();
         List<string> bottom = new List<string>();
-        List<string> middle = new List<string>();
         
         //Get top labels
         top.AddRange(Console.ReadLine().Split(new [] { "  " }, StringSplitOptions.None));

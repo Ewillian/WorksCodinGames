@@ -7,7 +7,8 @@
 
 ## Objective
 
-
+> Difficulty: **Easy**
+>
 
 Solving this puzzle helps you understand how CodinGame puzzles work (input data recovery, game loop, sending results to standard output). You can discover the platform with this simple value comparison exercise and discover up to 25 programming languages 
 

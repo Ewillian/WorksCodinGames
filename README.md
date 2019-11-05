@@ -9,17 +9,17 @@ In this repository you will find my working solutions for [Codingames](https://w
 
 ### Easy
 
-| No.  | Puzzle Name                                         | State   |
-| ---- | --------------------------------------------------- | ------- |
-| N.1  | [Ghost Legs]() \| [My Solution]()                   | ✔️Done 😎 |
-| N.2  | [May the Triforce be with you]() \| [My Solution]() | ✔️Done 😎 |
-| N.3  |                                                     |         |
-| N.4  | [Chuck Norris]() \| [My Solution]()                 | ✔️Done 😎 |
-| N.5  | [Temperatures]() \| [My Solution]()                 | ✔️Done 😎 |
-| N.6  | [Power of Thor]() \| [My Solution]()                | ✔️Done 😎 |
-| N.7  | [The Descent]() \| [My Solution]()                  | ✔️Done 😎 |
-| N.8  | [Onboarding]() \| [My Solution]()                   | ✔️Done 😎 |
-| N.9  |                                                     |         |
+| No.  | Puzzle Name                                                  | State   |
+| ---- | ------------------------------------------------------------ | ------- |
+| N.1  | [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs) \| [My Solution](https://github.com/Ewillian/WorksCodinGames/blob/master/Solutions/GhostLegs.md) | ✔️Done 😎 |
+| N.2  | [May the Triforce be with you](https://www.codingame.com/training/easy/may-the-triforce-be-with-you) \| [My Solution](https://github.com/Ewillian/WorksCodinGames/blob/master/Solutions/TriforceAscii.md) | ✔️Done 😎 |
+| N.3  |                                                              |         |
+| N.4  | [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris) \| [My Solution](https://github.com/Ewillian/WorksCodinGames/blob/master/Solutions/Chuck.md) | ✔️Done 😎 |
+| N.5  | [Temperatures](https://www.codingame.com/training/easy/temperatures) \| [My Solution](https://github.com/Ewillian/WorksCodinGames/blob/master/Solutions/Temp.md) | ✔️Done 😎 |
+| N.6  | [Power of Thor Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) \| [My Solution](https://github.com/Ewillian/WorksCodinGames/blob/master/Solutions/Thor.md) | ✔️Done 😎 |
+| N.7  | [The Descent](https://www.codingame.com/training/easy/the-descent) \| [My Solution](https://github.com/Ewillian/WorksCodinGames/blob/master/Solutions/Descent.md) | ✔️Done 😎 |
+| N.8  | [Onboarding](https://www.codingame.com/training/easy/onboarding) \| [My Solution](https://github.com/Ewillian/WorksCodinGames/blob/master/Solutions/OnBoarding.md) | ✔️Done 😎 |
+| N.9  |                                                              |         |
 
 ## Disclaimer
 
